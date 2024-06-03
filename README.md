@@ -1,1 +1,2 @@
 # Predict-Phone-Price-for-low-tech-objects
+This model was built for someones who were lack of experience in technology devices. One of them was Used Phone. Data is crawled from Chotot.vn with Selenium. After crawling, we excuted some processing such us clean, tranform in to number by decode method. For building model, we use linear regression and approximated by GradienBoostingRegressor. Result performance of the model was more than 90%.
